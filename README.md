@@ -15,3 +15,18 @@ and mobile responsiveness. 🚀
 - Tailwind CSS
 
 ***
+
+## 🧠 Objectives
+- Design a hero section with headline and CTA
+
+- Add services/features, testimonials, pricing, and contact form
+
+- Ensure mobile responsiveness
+
+  ***
+
+  ## 🌟 Features
+✅ Fully responsive layout
+✅ Interactive contact form
+✅ Testimonials and pricing plans
+✅ Clean UI with modern design principles
